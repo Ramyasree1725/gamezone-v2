@@ -36,3 +36,4 @@ Run unit test suite and generate coverage reports:
 npm test
 npm run coverage
 ```
+
